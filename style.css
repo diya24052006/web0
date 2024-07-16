@@ -1,0 +1,26 @@
+body {
+    
+    background-image: url("replacement.png");
+    background-color: grey;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-image-width: 25%;
+    background-position-y:53%;
+    background-position-x: 35%;
+    padding-right: 10%;  
+    
+ }
+                          
+       .button{
+        background-image: url("Untitled.png");
+        background-position: 50%;
+           border-radius: 3em;
+           
+        margin-top: 31%;
+        margin-inline-start: 45%;
+        font-size:x-large;
+        background-color: yellow;
+        box-shadow: 8px  8px 4px ;
+       }
+       
